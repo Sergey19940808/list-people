@@ -1,0 +1,26 @@
+.main {
+    margin-top: 150px;
+    width: 850px;
+    height: 250px;
+    border-radius: 6px;
+}
+
+.main_bg-white {
+    background-color: white;
+}
+.main__content {
+    padding: 40px 50px 0 40px;
+}
+
+.main__link {
+    text-decoration: none;
+    color: #008CBA;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.main__container {
+    display: flex;
+}

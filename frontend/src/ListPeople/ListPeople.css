@@ -1,0 +1,9 @@
+.list-people__user {
+    list-style-type: none;
+    padding: 10px 0 0 15px;
+    font-size: 20px;
+}
+
+.list-people__user-item {
+    margin: 0 10px 0 0;
+}
