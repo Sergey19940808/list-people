@@ -22,7 +22,7 @@ export const Main = () => {
                 </aside>
             </section>
             <a className='main__link' href='/list_users'>
-                Список пользователей
+                Список пользователе
             </a>
         </section>
     )
