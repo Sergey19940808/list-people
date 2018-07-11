@@ -6,9 +6,10 @@
     3) npm i
     4) npm start
     5) cd backend
-    6) Потом заходим в list_people/list_people/settings и анстраиваем подключение к базе данных
-    7) Создаем базу данных
-    8) Заходим в backend/list_people и запускаем python manage.py migrate
-    9) Потом из корня запускаем python generation_db.py
-    10) Затем из папки backend/list_people запускаем python manage.py runserver
+    6 pip freeze > requirements.txt
+    7) Потом заходим в list_people/list_people/settings и анстраиваем подключение к базе данных
+    8) Создаем базу данных
+    9) Заходим в backend/list_people и запускаем python manage.py migrate
+    10) Потом из корня запускаем python generation_db.py
+    11) Затем из папки backend/list_people запускаем python manage.py runserver
     
