@@ -3,6 +3,7 @@
     width: 850px;
     height: 250px;
     border-radius: 6px;
+    z-index: 90;
 }
 
 .main_bg-white {
