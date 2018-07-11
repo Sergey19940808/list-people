@@ -12,4 +12,6 @@
     9) Заходим в backend/list_people и запускаем python manage.py migrate
     10) Потом из корня запускаем python generation_db.py
     11) Затем из папки backend/list_people запускаем python manage.py runserver
+   
+Также нужно установить расширение для браузера CORS
     
